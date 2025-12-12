@@ -33,10 +33,10 @@ The **IWorkout** app is a workout tracking and planning application designed to 
 
 ## Technologies Used
 
-- **Frontend, Backend, Authentication**: 
+- **Frontend / Backend / Authentication**
   - Kotlin
 
-- **API Integration**:
+- **API Integration**
   - Azure OpenAI Service for AI integration
 
 
