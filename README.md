@@ -1,10 +1,9 @@
 <div align="center">
 
-# IWorkout App
+# Workout App
 
 
-### App Logo
-![App Logo](https://github.com/user-attachments/assets/03ab2f28-cb50-468c-8c80-6343fed77285)
+
 
 ---
 
